@@ -16,3 +16,4 @@
 - `php artisan seed`
 - /public/api/posts/proximity api url
 
+also you can look at screenshots at the `screenshots` project sub-folder
