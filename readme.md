@@ -13,7 +13,7 @@
 - `composer install`
 - setting .env for mysql database connection
 - `php artisan migrate`
-- `php artisan seed`
+- `php artisan db:seed`
 - /public/api/posts/proximity api url
 
 also you can look at screenshots at the `screenshots` project sub-folder
